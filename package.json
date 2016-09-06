@@ -1,7 +1,7 @@
 {
-  "name": "react-server-sample",
+  "name": "react-server-reesio",
   "version": "0.0.1",
-  "description": "A react-server instance",
+  "description": "A react-server instance (Testing with reesio page)",
   "main": "HelloWorld.js",
   "scripts": {
     "compile": "gulp",

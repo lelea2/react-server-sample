@@ -1,10 +1,10 @@
 
 module.exports = {
-	routes: {
-		HelloWorld: {
-			path: ['/'],
-			method: 'get',
-			page: './pages/hello-world'
-		}
-	}
+  routes: {
+    HomePage: {
+      path: ['/'],
+      method: 'get',
+      page: './pages/hello-world'
+    }
+  }
 };
